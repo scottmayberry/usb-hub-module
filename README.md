@@ -1,6 +1,6 @@
 # usb-hub-module
 ![usb-hub-module](images/usb_hub_module_pic.jpg)
-Usb hub circuit ready-to-use or for integration into other projects. Uses FE1.1s and surface mount components.
+A 4 usb hub circuit ready-to-use or for integration into other projects. Uses FE1.1s and surface mount components.
 
 Fabrication files (gerber, BOM, and pick and place) are located in the [fabrication](fabrication/) folder. I succesfully manufactured these using https://JLCPCB.com.
 
